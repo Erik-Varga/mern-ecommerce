@@ -5,10 +5,9 @@ https://www.youtube.com/watch?v=7E6um7NGmeE
 GITHUB
 https://github.com
 
-echo "# mern-stack-ecommerce" >> README.md
+echo "# mern-ecommerce" >> README.md
 git init
 git add .
-git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Erik-Varga/mern-ecommerce.git
